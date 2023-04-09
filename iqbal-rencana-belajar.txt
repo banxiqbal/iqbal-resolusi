@@ -1,0 +1,7 @@
+ RENCANA BELAJAR IQBAL
+ 
+ -belajar git
+  *mulai dari github
+  *commit
+ -belajar css unit
+ -belajar java scipt
