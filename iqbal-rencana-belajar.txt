@@ -3,5 +3,6 @@
  -belajar git
   *mulai dari github
   *commit
+ -belajar css layouting lagi
  -belajar css unit
  -belajar java scipt
