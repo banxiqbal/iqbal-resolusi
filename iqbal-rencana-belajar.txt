@@ -3,8 +3,11 @@
  -belajar git
   *mulai dari github
   *commit
-  *kentang
+   <branch
+   <branch dengan 2 orang
  -belajar css layouting lagi
  -belajar css unit
  -belajar java scipt
- -belajar bhs inggris
+ -belajar php
+ -belajar html 5
+
